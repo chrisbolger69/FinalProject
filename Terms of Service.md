@@ -12,4 +12,4 @@ YouTube is a subsidiary of Google
 ### Apache
 Apache has a license in Google
 - **Link**:  [License Instructions and TOS](https://www.apache.org/licenses/LICENSE-2.0)
-- **Link**:  [Apache License for this project](https://github.com/chrisbolger69/Youtube-video-to-picture/tree/main)
+- **Link**:  [Apache License for this project](https://github.com/chrisbolger69/Youtube-video-to-picture/blob/main/Terms%20of%20Service.md?plain=1)
