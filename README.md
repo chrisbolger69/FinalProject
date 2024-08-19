@@ -1,3 +1,3 @@
-# Healthcare Youtubes videos condensed to one picture
+# Healthcare Youtube videos condensed to one picture
 
 ## Terms of Service (TOS)
