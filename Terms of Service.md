@@ -1,6 +1,6 @@
 # Terms of Service (TOS)
 
-This file contins the terms of service, licenses, copyright, permission or any thing else legal
+This file contains the terms of service, licenses, copyright, permission or any thing else legal.
 
 ## YouTube
 YouTube is a subsidiary of Google
