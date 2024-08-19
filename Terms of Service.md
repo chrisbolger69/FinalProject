@@ -6,5 +6,6 @@ This file contins the terms of service, licenses, copyright, permission or any t
 YouTube is a subsidiary of Google
 
 ### Apache
-Apache has a licensense in Google
+Apache has a license in Google
 - **Link**: [License Instructions and TOS](https://www.apache.org/licenses/LICENSE-2.0)
+- **Link**:
