@@ -8,6 +8,7 @@ YouTube is a subsidiary of Google
   ### YouTube-8m
   - **Link**  [Lincense for YouTube-8m](https://github.com/google/youtube-8m/blob/master/LICENSE)
   - **Link**  [Code of Conduct](https://github.com/google/youtube-8m?tab=coc-ov-file)
+  - **Link**  [Creative Commons Attribution 4.0 International (CC BY 4.0) license. for download](https://creativecommons.org/licenses/by/4.0/)
 
 ## Google
 - **Link**:  [Privacy Policy](https://policies.google.com/privacy?hl=en)
