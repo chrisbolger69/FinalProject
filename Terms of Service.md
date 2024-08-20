@@ -4,6 +4,9 @@ This file contains the terms of service, licenses, copyright, permission or any 
 
 ## YouTube
 YouTube is a subsidiary of Google
+- **Link**:  [YouTube Term of Service](https://www.youtube.com/t/terms)
+  ### YouTube-8m
+  - **Link**  [Lincense of YouTube-8m](https://github.com/google/youtube-8m/blob/master/LICENSE)
 
 ## Google
 - **Link**:  [Privacy Policy](https://policies.google.com/privacy?hl=en)
