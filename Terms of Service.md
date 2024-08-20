@@ -18,3 +18,8 @@ YouTube is a subsidiary of Google
 Apache has a license in Google
 - **Link**:  [License Instructions and TOS](https://www.apache.org/licenses/LICENSE-2.0)
 - **Link**:  [Apache License for this project](https://github.com/chrisbolger69/Youtube-video-to-picture/blob/main/Apache%20License.md)
+
+## OpenAI
+ChatGPT and DALLE are owned by OpenAI.
+- **Link**:  [Terms of Service](https://openai.com/policies/terms-of-use/)
+- **Link**:  [Privacy Policy](https://openai.com/policies/privacy-policy/)
