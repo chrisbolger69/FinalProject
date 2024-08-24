@@ -3,7 +3,7 @@ from ultralytics import YOLO
 # Load a model
 model = YOLO("yolov8n.pt")  # pretrained YOLOv8n model
 # Specify the directory containing images
-image_directory = "C:\Users\17049\Desktop\Final_Project\bike_test"
+image_directory = "/mnt/c/Users/17049/Desktop/Final_Project/bike_test"
 # Supported image extensions
 supported_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".tiff")
 # Get a list of all image files in the directory
