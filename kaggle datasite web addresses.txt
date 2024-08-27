@@ -1,5 +1,2 @@
 Car vs Bike Classification Dataset
 https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset?resource=download
-
-Bicycle Image Dataset | Vehicle Dataset
-https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset/data
