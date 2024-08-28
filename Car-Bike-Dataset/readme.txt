@@ -1,1 +1,0 @@
-Image and Annotation Description
